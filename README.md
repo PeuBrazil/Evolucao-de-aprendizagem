@@ -1,4 +1,4 @@
-# Evolução de Aprendizagem
+# Evolução de Aprendizagem - M02
 
 ## Conteúdos que foram abordados nesse módulo:
 
@@ -29,14 +29,14 @@
 
 ## O que eu aprendi sobre os assuntos que foram abordados nesse módulo?
 
-• Com as aulas de carreira eu aprendi:
+### Com as aulas de carreira eu aprendi:
 
 ♦ Como gerir meu tempo de maneira mais eficiente visando produzir resultados positivos.
 
 ♦ Como criar um LinkedIn profissional com o intuito de aumentar o engajamento do meu perfil.
 
 
-• Com as aulas de lógica de programação eu aprendi:
+### Com as aulas de lógica de programação eu aprendi:
 
 ♦ Os diferentes tipos de funções e como eles são utilizados na programação.
 
