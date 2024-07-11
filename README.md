@@ -71,7 +71,7 @@
 ♦ Aprendi também sobre as tendências atuais em tecnologia e sobre o que esperar do futuro.
 
 
-### ☻ Com as aulas de lógica de programação eu aprendi:
+### ☺ ☻ Com as aulas de lógica de programação eu aprendi:
 
 ♦ Os diferentes tipos de funções e como eles são utilizados na programação.
 
