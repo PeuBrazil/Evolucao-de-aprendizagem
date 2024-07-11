@@ -44,6 +44,8 @@
 
 ## ♣ O que eu quero aprender com os assuntos abordados:
 
+♦ Aprender a manusear melhor o Github para facilitar a edição de códigos
+
 ♦ Como aprimorar meu cúrriculo e meu linkedin visando melhores oportunidades no mercado de trabalho.
 
 ♦ Métodos diferentes que podem ser utilizados nos meus códigos.
@@ -69,7 +71,6 @@
 ♦ Sobre a importância do autoconhecimento e a forma como lidar com diversas situações.
 
 ♦ Aprendi também sobre as tendências atuais em tecnologia e sobre o que esperar do futuro.
-
 
 ### ♣ Com as aulas de lógica de programação eu aprendi:
 
