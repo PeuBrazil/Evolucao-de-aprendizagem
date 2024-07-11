@@ -1,7 +1,7 @@
 # Evolução de Aprendizagem 
 
-## Conteúdos que foram abordados até o momento:
-
+## Conteúdos que foram abordados até o momento
+### Módulo 02:
 ♦ LinkedIn
 
 ♦ Gestão de tempo
@@ -17,6 +17,8 @@
 ♦ Métodos de strings
 
 ♦ Métodos de arrays
+
+### Módulo 03:
 
 ♦ Testes Automatizados
 
