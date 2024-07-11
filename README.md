@@ -1,7 +1,7 @@
 # Evolução de Aprendizagem 
 
-## Conteúdos que foram abordados até o momento
-### Módulo 02:
+## Conteúdos que foram abordados até o momento:
+### ♣ Módulo 02:
 ♦ LinkedIn
 
 ♦ Gestão de tempo
@@ -18,7 +18,7 @@
 
 ♦ Métodos de arrays
 
-### Módulo 03:
+### ♣ Módulo 03:
 
 ♦ Testes Automatizados
 
@@ -42,7 +42,7 @@
 
 ♦ Tratamentos de Erros com Herança e Polimorfismo
 
-## O que eu quero aprender com os assuntos abordados:
+## ♣ O que eu quero aprender com os assuntos abordados:
 
 ♦ Como aprimorar meu cúrriculo e meu linkedin visando melhores oportunidades no mercado de trabalho.
 
@@ -60,7 +60,7 @@
 
 ## O que eu aprendi sobre os assuntos que foram abordados nesse módulo?
 
-### ☻ Com as aulas de carreira eu aprendi:
+### ♣ Com as aulas de carreira eu aprendi:
 
 ♦ Como gerir meu tempo de maneira mais eficiente visando produzir resultados positivos.
 
@@ -71,7 +71,7 @@
 ♦ Aprendi também sobre as tendências atuais em tecnologia e sobre o que esperar do futuro.
 
 
-### ☺ ☻ Com as aulas de lógica de programação eu aprendi:
+### ♣ Com as aulas de lógica de programação eu aprendi:
 
 ♦ Os diferentes tipos de funções e como eles são utilizados na programação.
 
