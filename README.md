@@ -60,7 +60,7 @@
 
 ## O que eu aprendi sobre os assuntos que foram abordados nesse módulo?
 
-### • Com as aulas de carreira eu aprendi:
+### ☻ Com as aulas de carreira eu aprendi:
 
 ♦ Como gerir meu tempo de maneira mais eficiente visando produzir resultados positivos.
 
@@ -71,7 +71,7 @@
 ♦ Aprendi também sobre as tendências atuais em tecnologia e sobre o que esperar do futuro.
 
 
-### • Com as aulas de lógica de programação eu aprendi:
+### ☻ Com as aulas de lógica de programação eu aprendi:
 
 ♦ Os diferentes tipos de funções e como eles são utilizados na programação.
 
