@@ -118,6 +118,8 @@
 
 ♦ Como configurar meu primeiro servidor e realizar testes usando o host local.
 
+♦ Aprendi como funciona o tratamento de erros utilizando heranças e polimorfismo.
+
 ♦ Como gerenciar containeres utilizando o Docker e o Docker Compose.
 
 ♦ Como criar banco de dados e tabelas utilizando o Beekeeper.
