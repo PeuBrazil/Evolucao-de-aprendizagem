@@ -42,6 +42,32 @@
 
 ♦ Tratamentos de Erros com Herança e Polimorfismo
 
+### ♣ Módulo 04:
+
+♦ Introdução ao Docker e Docker Compose
+
+♦ Banco de Dados e Consultas SQL
+
+♦ Modelagem de Dados
+
+♦ CRUD SQL
+
+♦ Agrupamento e Relacionamento entre Tabelas
+
+♦ Conexão Node.js com PostgreSQL
+
+♦ Autenticação e Criptografia
+
+♦ Integração com API de terceiros
+
+♦ Git e Fluxo de Trabalho em Equipe
+
+♦ Marca pessoal e Plano de Carreira
+
+♦ Diversidade e Inclusão em Tecnologia
+
+♦ Metodologias Ágeis
+
 ## ♣ O que eu quero aprender com os assuntos abordados:
 
 ♦ Aprender a manusear melhor o Github para facilitar a edição de códigos
@@ -60,6 +86,12 @@
 
 ♦ Quero aprender como melhorar a organização dos meus códigos visando deixá-los mais legíveis.
 
+♦ Como utilizar o Docker e o Docker Compose.
+
+♦ Criação de bancos de dados e como realizar consultas utilizando comandos SQL.
+
+♦ Como gerenciar meu plano de carreira e me planejar para o futuro.
+
 ## O que eu aprendi sobre os assuntos que foram abordados nesse módulo?
 
 ### ♣ Com as aulas de carreira eu aprendi:
@@ -72,6 +104,10 @@
 
 ♦ Aprendi também sobre as tendências atuais em tecnologia e sobre o que esperar do futuro.
 
+♦ Aprendi sobre a importância da inclusão e diversidade no mercado de trabalho, tornando-me mais empático em relação aos outros.
+
+♦ Como gerenciar um plano de carreira com o intuito de planejar meu futuro profissional.
+
 ### ♣ Com as aulas de lógica de programação eu aprendi:
 
 ♦ Os diferentes tipos de funções e como eles são utilizados na programação.
@@ -81,3 +117,9 @@
 ♦ Aprendi diferentes métodos de arrays como que otimizam a maneira como eu faço os códigos.
 
 ♦ Como configurar meu primeiro servidor e realizar testes usando o host local.
+
+♦ Como gerenciar containeres utilizando o Docker e o Docker Compose.
+
+♦ Como criar banco de dados e tabelas utilizando o Beekeeper.
+
+♦ Como realizar consultas SQL utilizando comandos como o WHERE, SELECT e operadores de igualdade.
